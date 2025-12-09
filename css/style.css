@@ -244,6 +244,7 @@ a {
     background-image: url(../images/ctafooter.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .cta_ftwrapper {
