@@ -201,6 +201,20 @@
     align-items: center;
 }
 
+
+/* bespoke  */
+
+.bespoke_box_bot {
+    padding: 34px 60px 0;
+}
+
+.bespoke_box_bot .para {
+    color: var(--grey-666);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+
 /* ym */
 
 .magic_wrapper h2 {
