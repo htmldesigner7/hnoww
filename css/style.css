@@ -2,6 +2,7 @@
     /* color code */
     --white-color: #FFFFFF;
     --dark-900: #1C1C1A;
+    --dark-333: #333333;
     --gold-color: #B58A46;
     --secondary-color: #0D5E4C;
     --grey-666: #666;
@@ -73,12 +74,18 @@ a {
 }
 
 .sub_head {
-    color: var(--gold-color);
+    color: var(--dark-900);
     font-family: var(--heading-font);
     font-size: 24px;
     font-weight: 500;
 }
 
+.sub_head_inter {
+    color: var(--gold-color );
+    font-family: var(--body-font);
+    font-size: 24px;
+    font-weight: 500;
+}
 
 .section_header {
     text-align: center;

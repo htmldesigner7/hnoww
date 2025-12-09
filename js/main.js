@@ -48,6 +48,27 @@ $(document).ready(function () {
     });
 });
 
+// increment Decrement Functionality
+
+    const decBtn = document.querySelector(".dec_btn");
+    const incBtn = document.querySelector(".inc_btn");
+    const valueSpan = document.querySelector(".span_value");
+
+    let value = 1;
+
+    incBtn.addEventListener("click", () => {
+        value++;
+    valueSpan.textContent = value;
+    });
+
+    decBtn.addEventListener("click", () => {
+        if (value > 1) {
+        value--;
+    valueSpan.textContent = value;
+        }
+    });
+
+
 
 
 

@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/productdetails.css">
     <link rel="stylesheet" href="css/footer.css">
 
     <!-- responsive css start -->
@@ -54,7 +55,7 @@
 
                 <!-- Left: Logo -->
                 <a href="#">
-                    <img src="images/header-logo.svg" alt="Logo">
+                    <img class="header_logo" src="images/header-logo.svg" alt="Logo">
                 </a>
             </div>
             <!-- Toggler -->
