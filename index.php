@@ -216,6 +216,28 @@
     </div>
 </section>
 
+<!-- about -->
+ <section class="about">
+    <div class="container">
+        <div class="magic_wrapper">
+            <div>
+                <img src="images/home/home_magic_left.svg" alt="">
+            </div>
+            <div>
+                <img src="images/home/home_magic.jpg" alt="" class="img-fluid">
+            </div>
+            <div>
+                <h3>Every object is an offering.</h3>
+                <p>Every curve, every shadow, every material is chosen with intention to slow the day, gather the mind,
+                    and return us to meaning.</p>
+            </div>
+            <h2 class="magic_head_1">Beauty is not decoration</h2>
+            <h2 class="magic_head_2">It is devotion.</h2>
+        </div>
+    </div>
+</section>
+<!-- about -->
+
 <!--Objects Of Desire -->
 <section class="mt_80">
     <div class="section_header">
