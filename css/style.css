@@ -166,6 +166,7 @@ a {
     background-color: var(--secondary-color);
     transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
+
 .btn_2 {
     display: inline-block;
     transition: all 0.2s ease-in;
@@ -236,6 +237,7 @@ a {
     background-image: url(../images/ctafooter.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .cta_ftwrapper {
@@ -253,4 +255,5 @@ a {
     font-weight: 400;
     line-height: normal;
 }
+
 /* cta footer css */
