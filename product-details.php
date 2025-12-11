@@ -1,6 +1,4 @@
-<div class="product_details_header">
-    <?php include 'header.php'; ?>
-</div>
+<?php include 'header.php'; ?>
 <section class="mt_60">
     <div class="container">
         <div class="row">
@@ -8,36 +6,51 @@
                 <div class="pro_details">
                     <div class="left nav flex-column" id="productTab" role="tablist">
                         <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#img1">
-                            <img src="images/product-details/product_small.png" alt="Sample Product">
+                            <img src="images/product_small.png" alt="Sample Product">
                         </button>
 
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#img2">
-                            <img src="images/product-details/product_big.png" alt="Sample Product">
+                            <img src="images/desire1.png" alt="Sample Product">
                         </button>
 
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#img3">
-                            <img src="images/product-details/product_big.png" alt="Sample Product">
+                            <img src="images/desire2.png" alt="Sample Product">
                         </button>
 
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#img4">
-                            <img src="images/product-details/product_big.png" alt="Sample Product">
+                            <img src="images/desire3.png" alt="Sample Product">
                         </button>
                     </div>
 
                     <div class="tab-content">
                         <div class="tab-pane fade show active" id="img1">
-                            <img class=" img-fluid" src="images/product-details/product_big.png" alt="Sample Product">
+                            <div class="zoom-container">
+                                <img class="zoom-image img-fluid" src="images/product_big.png" alt="Sample Product">
+                                 <div class="zoom-lens"></div>
+                            </div>
                         </div>
+
                         <div class="tab-pane fade" id="img2">
-                            <img class=" img-fluid" src="images/product-details/product_big.png" alt="Sample Product">
+                            <div class="zoom-container">
+                                <img class="zoom-image img-fluid" src="images/desire1.png" alt="Sample Product">
+                                 <div class="zoom-lens"></div>
+                            </div>
                         </div>
+
                         <div class="tab-pane fade" id="img3">
-                            <img class=" img-fluid" src="images/product-details/product_big.png" alt="Sample Product">
+                            <div class="zoom-container">
+                                <img class="zoom-image img-fluid" src="images/desire2.png" alt="Sample Product"> <div class="zoom-lens"></div>
+                            </div>
                         </div>
+
                         <div class="tab-pane fade" id="img4">
-                            <img class=" img-fluid" src="images/product-details/product_big.png" alt="Sample Product">
+                            <div class="zoom-container">
+                                <img class="zoom-image img-fluid" src="images/desire3.png" alt="Sample Product">
+                                 <div class="zoom-lens"></div>
+                            </div>
                         </div>
                     </div>
+
                 </div>
             </div>
             <div class="col-lg-5">
@@ -129,7 +142,7 @@
                 </div>
 
                 <div class="tab-pane fade" id="tab-content-3" role="tabpanel" aria-labelledby="tab-3">
-                  <h4 class="sub_head mb-4">Ritual / Use</h4>
+                    <h4 class="sub_head mb-4">Ritual / Use</h4>
                     <ul class="pro_details_info_list mb-0">
                         <li><b>The Centerpiece: </b>Place the hammered bowl on a coffee table or console to ground the
                             space with warm metal tones.</li>
@@ -141,6 +154,35 @@
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="mt_80 mb_120">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="javascript:void(0)" class="rituals_box">
+                    <img class="img-fluid mb-3" src="images/desire1.png" alt="rituals">
+                    <h3 class="sub_head">Host with Heart</h3>
+                    <p class="mb-0">Creating meaningful moments through mindful hosting.</p>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="javascript:void(0)" class="rituals_box">
+                    <img class="img-fluid mb-3" src="images/desire2.png" alt="rituals">
+                    <h3 class="sub_head">Host with Heart</h3>
+                    <p class="mb-0">Creating meaningful moments through mindful hosting.</p>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="javascript:void(0)" class="rituals_box">
+                    <img class="img-fluid mb-3" src="images/desire3.png" alt="rituals">
+                    <h3 class="sub_head">Host with Heart</h3>
+                    <p class="mb-0">Creating meaningful moments through mindful hosting.</p>
+                </a>
+            </div>
+        </div>
+
     </div>
 </section>
 

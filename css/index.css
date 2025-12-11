@@ -141,7 +141,8 @@
 
 
 .desire_slider.slick-initialized .slick-slide {
-    margin-left: 50px;
+    /* margin-left: 50px; */
+    margin: 0 25px;
 }
 
 
@@ -203,6 +204,25 @@
 
 
 /* bespoke  */
+.bespoke_box_top,.bespoke_box_top_2 {
+    position: relative;
+}
+
+.bespoke_box_top .title_40 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    color: var(--white-color);
+
+}
+
+.bespoke_box_top_2 .title_40 {
+    position: absolute;
+    bottom: 60px;
+    left: 60px;
+    color: var(--white-color);
+}
+
 
 .bespoke_box_bot {
     padding: 34px 60px 0;

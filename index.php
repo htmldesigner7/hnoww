@@ -11,7 +11,7 @@
     <div class="hero_content">
         <h1 class="main_head">Where meaning takes shape.</h1>
         <p> Objects crafted to turn the everyday into ceremony.</p>
-        <a href="#" class="com_btn border-0">ENTER THE WORLD </a>
+        <a href="#" class="com_btn border-0 bg-white">ENTER THE WORLD </a>
     </div>
 
     <div class="hero_left_right">
@@ -289,7 +289,7 @@
 
             <div class="d-flex justify-content-between align-items-center">
                 <div>
-                    <h3 class="sub_head">The Oculus (Solo)</h3>
+                    <h3 class="sub_head">The Oculus (Solo) 1.</h3>
                     <p class="my-1">A compact ritual centerpiece for intimate hosting.</p>
                     <p class="price">AED 1,980</p>
                 </div>
@@ -584,7 +584,10 @@
         <div class="row gx-2">
             <div class="col-md-6">
                 <div class="bespoke_box">
-                    <img class="img-fluid" src="images/home/bespoke1.png" alt="images">
+                    <div class="bespoke_box_top">
+                        <img class="img-fluid" src="images/home/bespoke1.png" alt="images">
+                        <p class="title_40">Weddings & Celebrations</p>
+                    </div>
                     <div class="bespoke_box_bot">
                         <p class="para">Sculptural ceremonial pieces for modern unions.</p>
                         <span><a href="#" class="com_btn">Request Wedding Catalogue</a></span>
@@ -594,7 +597,11 @@
 
             <div class="col-md-6">
                 <div class="bespoke_box">
-                    <img class="img-fluid" src="images/home/bespoke2.png" alt="images">
+
+                    <div class="bespoke_box_top_2">
+                        <img class="img-fluid" src="images/home/bespoke2.png" alt="images">
+                        <p class="title_40">Corporate Rituals</p>
+                    </div>
                     <div class="bespoke_box_bot">
                         <p class="para">Objects that create lasting partnerships. Custom engraving available.</p>
                         <span><a href="#" class="com_btn">Download Corporate Lookbook</a></span>
@@ -607,7 +614,7 @@
 </section>
 
 <!--The Collections -->
-<section class="mt_120 mb-5">
+<section class="mt_120 mb_120">
     <div class="container">
         <div class="section_header">
             <p class="sub_head mb-0">

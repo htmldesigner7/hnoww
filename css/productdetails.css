@@ -1,18 +1,13 @@
-.product_details_header header {
-    position: static;
+.theme-green header {
+    position: sticky;
 }
 
-.product_details_header header * {
-    color: var(--dark-900) !important;
+.theme-green header .nav_links li a {
+    color: var(--dark-900);
 }
 
-.product_details_header header .hamburger>span span {
-    background-color: var(--dark-900) !important;
-}
-
-.product_details_header header .header_logo,
-.product_details_header header .navbar_right {
-    filter: invert(1);
+.theme-green header .hamburger>span span {
+    background: var(--dark-900);
 }
 
 /* first section  */
@@ -145,4 +140,28 @@
     background: var(--gold-color);
     color: var(--white-color);
     /* width: 100%; */
+}
+
+
+.zoom-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.zoom-image {
+    width: 100%;
+    display: block;
+}
+
+.zoom-lens {
+    position: absolute;
+    width: 120px; /* lens size */
+    height: 120px;
+    border-radius: 50%;  /* circular lens */
+    border: 2px solid #ddd;
+    background-repeat: no-repeat;
+    background-size: 200%; /* ZOOM strength */
+    display: none;
+    pointer-events: none;
 }

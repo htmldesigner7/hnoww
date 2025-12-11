@@ -34,7 +34,7 @@
                                 <li><a href="">For Her</a></li>
                                 <li><a href="">For Him</a></li>
                                 <li><a href="">For Home</a></li>
-                                <li><a href="">The Gift Shop</a></li>
+                                <li><a href="giftshop.php">The Gift Shop</a></li>
                                 <li><a href="">Festive Collections</a></li>
                             </ul>
                         </div>
