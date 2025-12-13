@@ -34,6 +34,10 @@ $is_green = ($current_page === 'product-details'); ?>
     <link rel="stylesheet" href="css/productdetails.css">
     <link rel="stylesheet" href="css/him.css">
     <link rel="stylesheet" href="css/giftshop.css">
+    <link rel="stylesheet" href="css/corporate.css">
+    <link rel="stylesheet" href="css/form.css">
+    <link rel="stylesheet" href="css/faq.css">
+    <link rel="stylesheet" href="css/ceremonial.css">
     <link rel="stylesheet" href="css/footer.css">
     <!-- responsive css start -->
     <link rel="stylesheet" href="css/responsive.css">

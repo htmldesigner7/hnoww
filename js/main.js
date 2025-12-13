@@ -116,6 +116,25 @@ $('.desire_slider').slick({
 });
 
 
+$('.corporate_slider').slick({
+    slidesToShow: 3,
+    arrows: false,
+    dots: true,
+    autoplay: true,
+    autoplaySpeed: 2500
+});
+
+
+$('.cor_kits_slider').slick({
+    slidesToShow: 1,
+    arrows: false,
+    dots: true,
+    autoplay: true,
+    autoplaySpeed: 2500
+});
+
+
+
 // increment Decrement Functionality
 
 const decBtn = document.querySelector(".dec_btn");
@@ -177,6 +196,8 @@ document.querySelectorAll(".zoom-container").forEach(function (zoomBox) {
     });
 
 });
+
+
 
 
 

@@ -263,7 +263,7 @@
         <div class="desire_box">
             <div class="desire_box_top mb-4">
 
-                <img class="img-fluid img_1" src="images/home/desire1.png" alt="images">
+                <img class="img-fluid img_1" src="images/desire1.png" alt="images">
 
                 <span class="icon_hert">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28" fill="none">
@@ -306,7 +306,7 @@
         <div class="desire_box">
             <div class="desire_box_top mb-4">
 
-                <img class="img-fluid img_1" src="images/home/desire1.png" alt="images">
+                <img class="img-fluid img_1" src="images/desire1.png" alt="images">
 
                 <span class="icon_hert">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28" fill="none">
@@ -349,7 +349,7 @@
         <div class="desire_box">
             <div class="desire_box_top mb-4">
 
-                <img class="img-fluid img_1" src="images/home/desire1.png" alt="images">
+                <img class="img-fluid img_1" src="images/desire1.png" alt="images">
 
                 <span class="icon_hert">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28" fill="none">
@@ -392,7 +392,7 @@
         <div class="desire_box">
             <div class="desire_box_top mb-4">
 
-                <img class="img-fluid img_1" src="images/home/desire1.png" alt="images">
+                <img class="img-fluid img_1" src="images/desire1.png" alt="images">
 
                 <span class="icon_hert">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28" fill="none">
@@ -435,7 +435,7 @@
         <div class="desire_box">
             <div class="desire_box_top mb-4">
 
-                <img class="img-fluid img_1" src="images/home/desire1.png" alt="images">
+                <img class="img-fluid img_1" src="images/desire1.png" alt="images">
 
                 <span class="icon_hert">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28" fill="none">
